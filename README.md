@@ -10,8 +10,6 @@
   <img src="assets/packet-light.svg" width="100%" alt="Education: INSAT engineering in Networks & Telecommunications (4th year), Baccalaureate in Experimental Sciences with Highest Distinction, four CCNA certifications, English, French, Arabic. Experience: Cyber Security Analyst Intern and Identity & Access Management Intern at Adactim. Toolkit: Security Onion, Suricata, Zeek, Wireshark, Active Directory, Keycloak, OIDC, Ghidra, IDA, Python, Bash, C/C++, Java.">
 </picture>
 
-<br><br>
-
 <a href="mailto:abdelkaderammar220@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/next-dark.svg">
