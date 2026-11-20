@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="308" viewBox="0 0 1000 308" role="img" aria-label="Experience: two internships at Adactim, identity and access management and SOC analysis">
+<title>Experience: two internships at Adactim, identity and access management and SOC analysis</title>
+<style>text{font-family:SFMono-Regular, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace}</style>
+<rect width="1000" height="308" rx="12" fill="#0e141b" stroke="#1f2a35"/>
+<line x1="176" y1="40" x2="176" y2="260" stroke="#1f2a35" stroke-width="2"/>
+<text x="30" y="45" font-size="15" fill="#3ddc97" font-weight="bold" text-anchor="start" letter-spacing="1">AUG 2026</text>
+<text x="30" y="65" font-size="12" fill="#6b7a8a" font-weight="normal" text-anchor="start">03 - 31</text>
+<circle cx="176" cy="40" r="6" fill="#0b0f14" stroke="#3ddc97" stroke-width="2"/>
+<text x="204" y="45" font-size="18" fill="#f2f6fa" font-weight="bold" text-anchor="start">Identity &amp; Access Management Intern</text>
+<text x="204" y="66" font-size="13" fill="#6b7a8a" font-weight="normal" text-anchor="start">Adactim  ·  Tunis, TN</text>
+<text x="204" y="94" font-size="14" fill="#3ddc97" font-weight="bold" text-anchor="start">›</text>
+<text x="222" y="94" font-size="14" fill="#c9d4df" font-weight="normal" text-anchor="start">Deployed a secure multi-tenant e-learning platform on IOMAD / Moodle</text>
+<text x="204" y="115" font-size="14" fill="#3ddc97" font-weight="bold" text-anchor="start">›</text>
+<text x="222" y="115" font-size="14" fill="#c9d4df" font-weight="normal" text-anchor="start">Integrated multiple Active Directory domains with Keycloak: federation + SSO</text>
+<text x="204" y="136" font-size="14" fill="#3ddc97" font-weight="bold" text-anchor="start">›</text>
+<text x="222" y="136" font-size="14" fill="#c9d4df" font-weight="normal" text-anchor="start">Secured access with OpenID Connect, tenant isolation and role-based access control</text>
+<text x="30" y="187" font-size="15" fill="#3ddc97" font-weight="bold" text-anchor="start" letter-spacing="1">JUL 2025</text>
+<text x="30" y="207" font-size="12" fill="#6b7a8a" font-weight="normal" text-anchor="start">01 Jul - 31 Aug</text>
+<circle cx="176" cy="182" r="6" fill="#0b0f14" stroke="#3ddc97" stroke-width="2"/>
+<text x="204" y="187" font-size="18" fill="#f2f6fa" font-weight="bold" text-anchor="start">Cyber Security Analyst Intern</text>
+<text x="204" y="208" font-size="13" fill="#6b7a8a" font-weight="normal" text-anchor="start">Adactim  ·  Tunis, TN</text>
+<text x="204" y="236" font-size="14" fill="#3ddc97" font-weight="bold" text-anchor="start">›</text>
+<text x="222" y="236" font-size="14" fill="#c9d4df" font-weight="normal" text-anchor="start">Deployed and configured Security Onion SIEM in a multi-OS virtual lab</text>
+<text x="204" y="257" font-size="14" fill="#3ddc97" font-weight="bold" text-anchor="start">›</text>
+<text x="222" y="257" font-size="14" fill="#c9d4df" font-weight="normal" text-anchor="start">Simulated SQL injection and command injection to test detection capabilities</text>
+<text x="204" y="278" font-size="14" fill="#3ddc97" font-weight="bold" text-anchor="start">›</text>
+<text x="222" y="278" font-size="14" fill="#c9d4df" font-weight="normal" text-anchor="start">Analyzed SIEM alerts, improved detection rules and advised on monitoring strategy</text>
+</svg>

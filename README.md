@@ -1,53 +1,16 @@
-<h1 align="center">Abdelkader Ammar</h1>
-
 <p align="center">
-  Cybersecurity engineering student · INSAT, Tunis 🇹🇳
+  <img src="assets/banner.svg" alt="Abdelkader Ammar — cybersecurity and networks engineering student at INSAT" width="100%">
 </p>
 
-```console
-$ whoami
-abdelkader — 4th-year Networks & Telecommunications engineering student
+<img src="assets/h-experience.svg" alt="01 Experience" width="100%">
+<img src="assets/experience.svg" alt="Identity & Access Management Intern at Adactim (Aug 2026): Active Directory federation with Keycloak, OIDC, RBAC. Cyber Security Analyst Intern at Adactim (Jul–Aug 2025): Security Onion SIEM, attack simulation, detection tuning." width="100%">
 
-$ cat focus.txt
-threat detection · identity & access · reverse engineering
+<img src="assets/h-toolkit.svg" alt="02 Toolkit" width="100%">
+<img src="assets/toolkit.svg" alt="Security Onion, Suricata, Zeek, SIEM, Active Directory, Keycloak, OIDC, SSO, RBAC, LDAPS, Wireshark, Ghidra, IDA, Python, Bash, C, C++, Java" width="100%">
 
-$ status
-open to cybersecurity internships
-```
+<img src="assets/h-credentials.svg" alt="03 Credentials" width="100%">
+<img src="assets/credentials.svg" alt="INSAT engineering degree in Networks and Telecommunications; four CCNA certifications; English, French, Arabic" width="100%">
 
-<br>
+<img src="assets/h-contact.svg" alt="04 Contact" width="100%">
 
-### `~/work`
-
-| | |
-|---|---|
-| **Identity & Access Management Intern** · Adactim <br> *Aug 2026* | Federated multiple Active Directory domains with Keycloak (SSO, OIDC, RBAC) for a multi-tenant Moodle platform |
-| **Cyber Security Analyst Intern** · Adactim <br> *Jul – Aug 2025* | Deployed Security Onion SIEM, simulated attacks and tuned detection rules |
-
-<br>
-
-### `~/projects`
-
-- **AI-Powered WAF** — two-tier web application firewall combining LightGBM, RoBERTa and OWASP Coraza, with a UEBA trust engine and RASP layer
-- **CTF** — reverse engineering and binary exploitation with Ghidra and IDA
-- **ESP32 wireless security lab** — Marauder firmware for Wi-Fi pentesting in controlled environments
-- **Smart IoT thermostat** — MQTT, web dashboard and Alexa voice control
-
-<br>
-
-### `~/stack`
-
-```text
-detection   Security Onion · Suricata · Zeek · Wireshark
-identity    Active Directory · Keycloak · OIDC · LDAPS
-reversing   Ghidra · IDA
-code        Python · Bash · C/C++ · Java
-```
-
-<br>
-
-### `~/contact`
-
-<p>
-  <a href="mailto:abdelkaderammar220@gmail.com"><img src="https://img.shields.io/badge/email-abdelkaderammar220%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<a href="mailto:abdelkaderammar220@gmail.com"><img src="assets/c-mail.svg" alt="abdelkaderammar220@gmail.com"></a>
